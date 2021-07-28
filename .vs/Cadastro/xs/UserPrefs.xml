@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{6BA08749-F77B-4798-A415-DAA536972FD3}|Default">
+  <MonoDevelop.Ide.ItemProperties.Cadastro PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Cadastro/Controllers/CadastrosController.cs">
+    <Files>
+      <File FileName="Cadastro/Controllers/CadastrosController.cs" Line="119" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Cadastro" expanded="True">
+            <Node name="Cadastro" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="Views" expanded="True" selected="True">
+                <Node name="Cadastros" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
